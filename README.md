@@ -1,5 +1,5 @@
 Student Enrollment Application for Courses in IT Getting Started Prerequisites Java 8 or higher Clone the repository:
-git clone https://github.com/FlorinRoscan/Student-enrollment-application-for-courses.git
+git clone https://github.com/FlorinRoscan/Student-Enrollment-application-for-courses.git
 Change directory into the project:
 Copy code Student-enrollment-application-for-courses
 View available courses Enroll in a course 
