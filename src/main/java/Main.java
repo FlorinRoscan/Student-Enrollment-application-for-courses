@@ -16,7 +16,7 @@ public class Main {
         DataLoader dataLoader = new DataLoader();
         dataLoader.loadData();
         Scanner scanner = new Scanner(System.in);
-
+        // Options
         System.out.println("You can enter the following options :\n" +
                 "0 – Exit the program.\n" +
                 "1 – Show courses\n" +
@@ -25,11 +25,11 @@ public class Main {
                 "4 – Search for a student by name \n" +
                 "5 – Displays the students and the course they are participating in \n" +
                 "6 - Save course and student data for export\n");
-
+        // Condition
         while (true) {
             System.out.println("\nPlease enter an option: ");
             int option = Integer.parseInt(scanner.nextLine());
-
+            // cases
             switch (option) {
                 case 0:
                     System.exit(0);
@@ -57,6 +57,7 @@ public class Main {
                 default:
                     System.out.println("Invalid option.");
                     break;
+                    
             }
         }
     }
