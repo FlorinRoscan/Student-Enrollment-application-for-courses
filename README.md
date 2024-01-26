@@ -13,5 +13,3 @@ If there are no available spots, you will be informed that the course is full an
 Viewing Enrollment Status To view your enrollment status, select option 3 from the main menu. 
 You will see a list of the courses you are currently enrolled in, along with their course codes and the number of available spots.
 Exiting the Application To exit the application, select option 4 from the main menu.
-You will be prompted to confirm that you wish to exit the application.
-Contributing If you find a bug or have an idea for a new feature, feel free to open an issue or submit a pull request!
