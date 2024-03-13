@@ -56,7 +56,7 @@ public class Main {
                     break;
                 default:
                     System.out.println("Invalid option.");
-                    break;   
+                    break;
             }
         }
     }
