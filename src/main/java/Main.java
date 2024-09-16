@@ -10,7 +10,6 @@ import static Model.Methods.Case6.exportData;
 
 public class Main {
     public static void main(String[] args) throws IOException, BudgetInvalidException {
-
         DataLoader dataLoader = new DataLoader();
         dataLoader.loadData();
         Scanner scanner = new Scanner(System.in);
